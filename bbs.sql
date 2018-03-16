@@ -1,3 +1,7 @@
+create database bbs;
+
+use bbs;
+
 create table article
 (
 	id int primary key auto_increment,
